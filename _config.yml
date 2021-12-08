@@ -1,1 +1,3 @@
-config:
+less:
+  options:
+    javascriptEnabled: true
